@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋, I'm Suchit Pednekar<br><br>🔭 I’m currently working on<br><br>RFID-based attendance system and improving my PCB design skills using KiCAD.<br><br>👯 I’m looking to collaborate on<br><br>Embedded systems projects, PCB design, and real-world electronics applications.<br><br>🤝 I’m looking for help with<br><br>Advanced embedded programming and industry-level PCB design techniques.<br><br>🌱 I’m currently learning<br><br>Embedded systems, circuit optimization, and advanced PCB layout design.<br><br>💬 Ask me about<br><br>Circuit design, KiCAD, RFID projects, and basic electronics troubleshooting.<br><br>⚡ Fun fact<br><br>I enjoy working on hands-on electronics projects and fixing circuits more than just studying theory!
+ Hi there 👋, I'm Suchit Pednekar<br><br>🔭 I’m currently pursuing BE in Electronic and telecommunication<br>💬 Ask me about Circuit design, KiCAD, RFID projects, and basic electronics. Stuff<br>📫 How to reach me: Instagram – @Suchit_pedbnekar, LinkedIn – @Suchit Pednekar<br>😄 Pronouns: He/His<br>⚡ Fun fact: I enjoy hands-on electronics, circuit troubleshooting, and designing with AutoCAD and KiCAD more than just studying theory.
 
 
 ## 🌐 Socials:
