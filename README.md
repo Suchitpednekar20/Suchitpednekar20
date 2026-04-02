@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there 👋, I'm Suchit Pednekar<br><br>🔭 I’m currently pursuing BE in Electronic and telecommunication<br>💬 Ask me about Circuit design, KiCAD, RFID projects, and basic electronics. Stuff<br>📫 How to reach me: Instagram – @Suchit_pedbnekar, LinkedIn – @Suchit Pednekar<br>😄 Pronouns: He/His<br>⚡ Fun fact: I enjoy hands-on electronics, circuit troubleshooting, and designing with AutoCAD and KiCAD more than just studying theory.
+ Hi there 👋, I'm Suchit Pednekar<br><br>🔭 I’m currently pursuing BE in Electronic and telecommunication<br>💬 Ask me about Circuit design, KiCAD, and basic electronics. Stuff<br>📫 How to reach me: Instagram – @Suchit_pedbnekar, LinkedIn – @Suchit Pednekar<br>😄 Pronouns: He/His<br>⚡ Fun fact: I enjoy hands-on electronics, circuit troubleshooting, and designing with AutoCAD and KiCAD more than just studying theory.
 
 
 ## 🌐 Socials:
