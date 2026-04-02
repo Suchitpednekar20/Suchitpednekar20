@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi there 👋, I’m Suchit Pednekar
 
-<!--
-**Suchitpednekar20/Suchitpednekar20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Electronics & Telecommunication Engineering Student
+🔌 Passionate about Circuit Design, PCB Development & Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical, efficient, and innovative electronic solutions. With hands-on experience in tools like KiCAD and AutoCAD, along with skills in micro-soldering and electrical wiring, I aim to contribute to real-world electronics projects while continuously improving my technical expertise.
+
+—
+
+🔭 I’m currently working on
+
+* RFID-based Attendance System
+* Improving PCB design skills using KiCAD
+
+👯 I’m looking to collaborate on
+
+* Embedded Systems Projects
+* PCB Design & Circuit Development
+* Real-world Electronics Applications
+
+🤝 I’m looking for help with
+
+* Advanced Embedded Programming
+* Industry-level PCB Design Techniques
+
+🌱 I’m currently learning
+
+* Embedded Systems
+* Circuit Optimization
+* Advanced PCB Layout Design
+
+💬 Ask me about
+
+* Circuit Design
+* KiCAD
+* RFID Projects
+* Electronics Troubleshooting
+
+⚡ Fun fact
+
+I enjoy working on hands-on electronics projects and fixing circuits more than just studying theory!
+
+🛠️ Skills & Tools
+
+* KiCAD
+* AutoCAD
+* Micro Soldering
+* Electrical Wiring
+* Basic Embedded Systems
